@@ -1,0 +1,1 @@
+"""Mandatory URL Shortener blueprint."""

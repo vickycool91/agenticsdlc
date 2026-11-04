@@ -1,0 +1,2 @@
+SAFE_URL_SCHEMES = {'http', 'https'}
+HUMAN_APPROVAL_REQUIRED = True

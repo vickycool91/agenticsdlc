@@ -1,0 +1,6 @@
+openapi: 3.1.0
+info: {title: URL Shortener API, version: 1.0.0}
+paths:
+  /api/urls: {post: {summary: Create short URL}}
+  /{code}: {get: {summary: Redirect}}
+  /api/urls/{code}/analytics: {get: {summary: Click analytics}}
